@@ -23,7 +23,6 @@ Lesson generator included is from [here](https://github.com/simgunz/ktouch-lesso
 
 The lesson was generated with the command
 
-
 ```
 ktouch-lesson-generator ./ktouch/colemak-programmer-lessons-schema.txt ktouch/12dict.txt
 ```
