@@ -718,10 +718,11 @@
         "categories": ["modifier"]
       },
       {
-        "code": 230,
-        "label": {"base": {"full": "AltGr", "1u": "AGr"}},
-        "location": "right",
-        "categories": ["modifier"]
+        "code": 17454,
+        "label": {"hint": "ShiftTo", "base": "#4"},
+        "target": 4,
+        "rangeStart": 17450,
+        "categories": ["layer", "shifttolayer"]
       },
       {"code": 16, "label": {"base": "m", "shifted": "M"}},
       {"code": 17, "label": {"base": "n", "shifted": "N"}},
